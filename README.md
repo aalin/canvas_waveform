@@ -8,8 +8,7 @@ Usage:
 
 This will create waveform.html, which will look like this in Firefox 3.5.6:
 
-![Pink Floyd - Echoes waveform](http://imgur.com/tqKZ8l.png)
-[original image](http://imgur.com/tqKZ8.png)
+[![Pink Floyd - Echoes waveform](http://imgur.com/tqKZ8l.png)](http://imgur.com/tqKZ8.png)
 
 # Notes
 
