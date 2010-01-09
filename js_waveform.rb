@@ -33,6 +33,7 @@ html = <<EOF
     </script>
   </head>
   <body onload="setupStuff();">
+    <h1>#{ File.basename(filename) }</h1>
     <canvas id="waveform" width="1200" height="500"></canvas>
   </body>
 </html>
